@@ -16,4 +16,8 @@ https://osf.io/4vxs6
 
 ## OSF repository:
 
-osf.io/db4cf
+https://osf.io/db4cf
+
+## Notes:
+
+1. 9/4/2025 - The search for duplicates was conducted both automatically and manually, with both methods converging on the same results.
