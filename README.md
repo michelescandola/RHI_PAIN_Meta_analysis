@@ -94,6 +94,7 @@ Please cite this repository if you use it in your own research.
 1. **2025-04-09** – Duplicate search conducted both automatically and manually; both methods yielded identical results.  
 2. **2025-05-27** – Title and abstract selection completed.  
 3. **2025-08-12** – Full-text selection completed.  
+4. **2025-11-28** - First meta-analysis run (only RHI influences on Pain).
 
 ---
 
