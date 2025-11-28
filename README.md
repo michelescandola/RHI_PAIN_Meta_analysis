@@ -56,6 +56,7 @@ This project is **fully pre-registered**, and all code/data are shared here for 
 | `remove_duplicates.R` | Script for duplicate search and removal |
 | `title_abstract_selection.R` | Script for title and abstract screening |
 | `full_text_selection.R` | Script for full-text screening |
+| `meta-analysis.R` | Script for the meta-analysis |
 
 ---
 
@@ -79,6 +80,7 @@ This project is **fully pre-registered**, and all code/data are shared here for 
 | `second_stage.csv` | Combined full-text selection datasets |
 | `full_text_selected.csv` | Final full-text selections |
 | `full_text_inc.csv` | Conflicting full-text selections resolved by MS |
+| `RHI influences Pain.csv` | Data used for the meta-analysis to understand the effects of the RHI on pain |
 
 ---
 
